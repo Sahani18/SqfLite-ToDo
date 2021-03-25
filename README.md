@@ -1,16 +1,20 @@
 # sqflite_todo
 
-A new Flutter application.
+Flutter Todo application
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Demo video
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/72247207/112528531-45451e80-8dca-11eb-9fcd-e4fd6dc4bbee.mp4
+
+Screenshots demo
+
+![WhatsApp Image 2021-03-26 at 12 28 17 AM (1)](https://user-images.githubusercontent.com/72247207/112528613-5f7efc80-8dca-11eb-958d-9e5a9d420536.jpeg)
+
+![WhatsApp Image 2021-03-26 at 12 28 17 AM (2)](https://user-images.githubusercontent.com/72247207/112528619-61e15680-8dca-11eb-9fae-c3104d35d059.jpeg)
+
+![WhatsApp Image 2021-03-26 at 12 28 17 AM (3)](https://user-images.githubusercontent.com/72247207/112528625-6443b080-8dca-11eb-9664-d635cd3b9eb8.jpeg)
+
+![WhatsApp Image 2021-03-26 at 12 28 17 AM (4)](https://user-images.githubusercontent.com/72247207/112528633-660d7400-8dca-11eb-9c6e-0f13be8e72d3.jpeg)
